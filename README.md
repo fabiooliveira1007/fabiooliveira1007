@@ -6,6 +6,9 @@
 🌱 I’m currently learning HTML, CSS, JavaScript.
 </p>
 
+<h1 align="center">
+  Social and contact:
+</h1>
 <!--Linkedin-->
 <p align="center">
   <a href="https://www.linkedin.com/in/fso1007/">
