@@ -1,14 +1,14 @@
-<h2 align="center">
+<h1 align="center">
   Hi there 👋 I'm Fábio
-</h2>
+</h1>
 
 <p align="center">
 🌱 I’m currently learning HTML, CSS, JavaScript.
 </p>
 
-<h3 align="center">
+<h2 align="center">
   Social and contact:
-</h3>
+</h2>
 <!--Linkedin-->
 <p align="center">
   <a href="https://www.linkedin.com/in/fso1007/">
