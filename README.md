@@ -26,6 +26,6 @@
   </a>
 </p>
 
-https://activity-graph.herokuapp.com/graph?username={fso1007}&theme=minimal
+
 
 
