@@ -22,10 +22,20 @@
     <img src="https://img.shields.io/badge/fso1007-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:fabio_oliveira10@live.com">
-    <img src="https://img.shields.io/badge/fabio_oliveira10@live.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+    <img src="https://img.shields.io/badge/fabio_oliveira10@live.com-0078D4?style=for-the-badge&logo=microsoft-           outlook&logoColor=white">
+  </a>
+</p>
+<h2 align="center">
+  Portfolio:
+</h2>
+<p align="center">
+  <a href="https://fso1007.github.io/my-personal-portfolio">
+    <img src="https://img.shields.io/static/v1?label=Portfolio&message=F%C3%A1bio%20Oliveira&color=red">
   </a>
 </p>
 
+
+![octocat-1681598771873](https://github.com/fso1007/fso1007/assets/64709697/3f3ac289-8c80-43a9-9436-d6d6f4bf0356)
 
 
 
