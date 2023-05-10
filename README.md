@@ -25,6 +25,8 @@
     <img src="https://img.shields.io/badge/fabio_oliveira10@live.com-0078D4?style=for-the-badge&logo=microsoft-           outlook&logoColor=white">
   </a>
 </p>
+
+<!--Portfolio and avatar-->
 <h2 align="center">
   Portfolio:
 </h2>
@@ -33,9 +35,10 @@
     <img src="https://img.shields.io/static/v1?label=Portfolio&message=F%C3%A1bio%20Oliveira&color=red">
   </a>
 </p>
+<a href="https://myoctocat.com/">
+  <img src="https://gcdnb.pbrd.co/images/J8Ujo6OAqgib.png?o=1">
+</a>
 
-
-![octocat-1681598771873](https://github.com/fso1007/fso1007/assets/64709697/3f3ac289-8c80-43a9-9436-d6d6f4bf0356)
 
 
 
