@@ -37,7 +37,7 @@
 </p>
 <div align="center">
   <a href="https://myoctocat.com/">
-    <img style="width:500px;" src="https://gcdnb.pbrd.co/images/J8Ujo6OAqgib.png?o=1">
+    <img style="width:400px;" src="https://gcdnb.pbrd.co/images/J8Ujo6OAqgib.png?o=1">
   </a>
 </div>
 
