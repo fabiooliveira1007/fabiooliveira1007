@@ -35,10 +35,11 @@
     <img src="https://img.shields.io/static/v1?label=Portfolio&message=F%C3%A1bio%20Oliveira&color=red">
   </a>
 </p>
-<a href="https://myoctocat.com/">
-  <img style="width:500px;" src="https://gcdnb.pbrd.co/images/J8Ujo6OAqgib.png?o=1">
-</a>
-
+<div align="center">
+  <a href="https://myoctocat.com/">
+    <img style="width:500px;" src="https://gcdnb.pbrd.co/images/J8Ujo6OAqgib.png?o=1">
+  </a>
+</div>
 
 
 
