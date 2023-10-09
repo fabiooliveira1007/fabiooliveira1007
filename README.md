@@ -30,11 +30,11 @@
     <img src="https://img.shields.io/badge/fso1007-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:fabio_oliveira10@live.com">
-    <img src="https://img.shields.io/badge/fabio_oliveira10@live.com-0078D4?style=for-the-badge&logo=microsoft-           outlook&logoColor=white">
+    <img src="https://img.shields.io/badge/fabio_oliveira10@live.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   </a>
 </p>
 
-<!--Portfolio and avatar-->
+<!--Portfolio-->
 <h2 align="center">
   :file_folder: Portfolio:
 </h2>
@@ -43,11 +43,7 @@
     <img src="https://img.shields.io/static/v1?label=Portfolio&message=F%C3%A1bio%20Oliveira&color=red">
   </a>
 </p>
-<div align="center">
-  <a href="https://myoctocat.com/">
-    <img style="width:400px;" src="https://gcdnb.pbrd.co/images/J8Ujo6OAqgib.png?o=1">
-  </a>
-</div>
+
 
 
 
