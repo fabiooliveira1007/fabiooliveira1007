@@ -1,6 +1,5 @@
 <div align="center">
-  <p>Hi there :grin:</p>
-  <p>I'am Fábio :man:</p>
+  <p>Hi there, I'am Fábio :man:</p>
   <p>Front-end developer :computer:</p>
   <p>Looking for my first job experience! :sparkles:</p>
 </div>
