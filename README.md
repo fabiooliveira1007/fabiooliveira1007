@@ -1,11 +1,12 @@
 <div align="center">
-  <p>Hi there :grin: I'am Fábio :man:</p>
+  <p>Hi there :grin:</p>
+  <p>I'am Fábio :man:</p>
   <p>Front-end developer :computer:</p>
   <p>Looking for my first job experience! :sparkles:</p>
 </div>
 
 <h2 align="center">
-  :wrench: My work tools:
+  <p>My work tools:</p>
 </h2>
 
 <p align="center">
@@ -25,7 +26,7 @@
 
 <!--Social and contact-->
 <h2 align="center">
-  :telephone_receiver: Social and contact:
+  Social and contact:
 </h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/fso1007/">
@@ -38,7 +39,7 @@
 
 <!--Portfolio-->
 <h2 align="center">
-  :file_folder: Portfolio:
+  Portfolio: 
 </h2>
 <p align="center">
   <a href="https://fso1007.github.io/my-personal-portfolio">
