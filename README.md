@@ -6,7 +6,7 @@
 </div>
 
 <h2 align="center">
-  <p>My work tools:</p>
+  <p>My work tools :wrench:</p>
 </h2>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 <!--Social and contact-->
 <h2 align="center">
-  Social and contact:
+  Social and contact :telephone:
 </h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/fso1007/">
@@ -39,7 +39,7 @@
 
 <!--Portfolio-->
 <h2 align="center">
-  Portfolio: 
+  Portfolio :file_folder:
 </h2>
 <p align="center">
   <a href="https://fso1007.github.io/my-personal-portfolio">
