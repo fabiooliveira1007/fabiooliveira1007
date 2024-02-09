@@ -36,16 +36,6 @@
   </a>
 </p>
 
-<!--Portfolio-->
-<h2 align="center">
-  Portfolio :file_folder:
-</h2>
-<p align="center">
-  <a href="https://fso1007.github.io/my-personal-portfolio">
-    <img src="https://img.shields.io/static/v1?label=Portfolio&message=F%C3%A1bio%20Oliveira&color=red">
-  </a>
-</p>
-
 
 
 
