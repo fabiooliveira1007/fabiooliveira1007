@@ -39,7 +39,7 @@
 </h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/fabiooliveira1007/">
-    <img src="https://img.shields.io/badge/fso1007-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/fabiooliveira1007-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:fabio_oliveira10@live.com">
     <img src="https://img.shields.io/badge/fabio_oliveira10@live.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
